@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- URLS -->
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- https://shields.io/ -->
+<!-- https://simpleicons.org/ -->
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
 <h1 align="center">Hi 👋, I'm NinaMina2737</h1>
 <h3 align="center">A college student aspiring to become a technical artist.</h3>
@@ -79,3 +83,13 @@ Here are some ideas to get you started:
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
   </a>
 </p>
+
+![GitHub watchers](https://img.shields.io/github/watchers/NinaMina2737/NinaMina2737?style=social)
+
+<!-- ![Custom budge sample](https://img.shields.io/badge/redash-v4.0.1-ff7964.svg?style=social) -->
+<!-- https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg -->
+<!--
+  SUBJECT ... タイトル
+  STATUS ... ステータス
+  COLOR ... 色（名前 or コード）
+-->
