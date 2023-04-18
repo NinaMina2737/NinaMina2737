@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/devicons/devicon -->
 
 <h1 align="center">Hi 👋, I'm NinaMina2737</h1>
-<h3 align="center">A college student aspiring to become a technical artist.</h3>
+<h3 align="center">A college student aspiring to become a Technical Artist.</h3>
 
 <!-- - 📫 How to reach me **ninamina2737@gmail.com** -->
 📫 How to reach me **ninamina2737@gmail.com**
